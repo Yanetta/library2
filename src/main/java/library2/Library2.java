@@ -26,6 +26,8 @@ public class Library2 {
         Library2 myLibrary = new Library2();
         myLibrary.getFinishedBooks(myBooks);
         System.out.println("good books");
-        }
+        System.out.println("very good books");
+
+    }
 }
 
