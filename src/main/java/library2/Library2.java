@@ -27,6 +27,10 @@ public class Library2 {
         myLibrary.getFinishedBooks(myBooks);
         System.out.println("good books");
         System.out.println("very good books");
+        System.out.println("trypillya");
+        System.out.println("kdjkd");
+
+
 
     }
 }
